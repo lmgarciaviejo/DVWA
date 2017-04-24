@@ -1,6 +1,6 @@
 # DAMN VULNERABLE WEB APPLICATION
 
-HOLA !!! 
+
 [![Kiuwan](https://www.kiuwan.com/github/lmgarciaviejo/DVWA/badges/security.svg)](https://www.kiuwan.com/github/lmgarciaviejo/DVWA)
 [![Kiuwan](https://www.kiuwan.com/github/lmgarciaviejo/DVWA/badges/quality.svg)](https://www.kiuwan.com/github/lmgarciaviejo/DVWA)
 
