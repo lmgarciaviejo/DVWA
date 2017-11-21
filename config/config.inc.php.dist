@@ -2,7 +2,7 @@
 
 # If you are having problems connecting to the MySQL database and all of the variables below are correct
 # try changing the 'db_server' variable from localhost to 127.0.0.1. Fixes a problem due to sockets.
-#   Thanks to @digininja for the fix. fdksfhkshfksdfksfhdskhfsdf
+#   Thanks to @digininja for the fix. fdksfhkshfksdfksfhdskhfsdf   dfgd  dg dg dg dg dg dfg dg dg
 
 # Database management system to use
 $DBMS = 'MySQL';
